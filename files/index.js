@@ -8,7 +8,7 @@ const NEZHA_PORT = process.env.NEZHA_PORT || '';                     //
 const NEZHA_KEY = process.env.NEZHA_KEY || '';
 const ARGO_DOMAIN = process.env.ARGO_DOMAIN || '';     //
 const ARGO_AUTH = process.env.ARGO_AUTH || '';
-const CFIP = process.env.CFIP || 'na.ma';
+const CFIP = process.env.CFIP || 'japan.com';
 const NAME = process.env.NAME || 'Choreo';
 
 // root route
